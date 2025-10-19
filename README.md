@@ -7,3 +7,5 @@ $(call inherit-product-if-exists, vendor/xiaomi/GoogleCamera/config.mk)
 
 # Credits
 * [**Google Camera GO**](https://www.apkmirror.com/apk/google-inc/camera-go/google-camera-go-3-8-482694574_release-release/)
+
+fork
